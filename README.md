@@ -8,7 +8,7 @@
 
 ## 🚀 Live Site
 
-👉 [https://404coin.fun](https://404coin.fun)  
+👉 [https://404coin.info](https://404coin.info)  
 *(or your GitHub Pages fallback URL: `https://<yourusername>.github.io/404coin-site/`)*
 
 ---
